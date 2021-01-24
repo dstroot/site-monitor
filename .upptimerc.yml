@@ -35,14 +35,18 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /site-monitor
+  
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: VDS Uptime
   
   theme: dark   # Available themes are light, dark, or ocean.
   # themeUrl: https://example.com/my-custom-theme.css
   
+  # you can use **markdown** in the fields below
   introTitle: "Verite Data Science Uptime"
   introMessage: "INNOVATION, POWERED BY DATA"
+  
+  # You can customize the navbar top-level navigation links
   navbar:
     - title: Verite Data Science
       href: https://veritedatascience.com/
