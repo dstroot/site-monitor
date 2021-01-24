@@ -1,8 +1,8 @@
-# Change these first
-owner: dstroot
-repo: site-monitor
+# See https://upptime.js.org/docs/configuration
+owner: dstroot      # GitHub username
+repo: site-monitor  # GitHub repository name
 
-# Add your sites here
+# Site(s) to monitor
 sites:
   - name: Verite Data Science
     url: https://veritedatascience.com/
@@ -19,6 +19,10 @@ sites:
   - name: Site Monitor
     url: https://dstroot.github.io/vds_uptime/
     
+# Users to assign downtime issues (optional)
+assignees: 
+  - dstroot
+    
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
 notifications:
@@ -33,6 +37,10 @@ status-website:
   baseUrl: /site-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: VDS Uptime
+  
+  theme: dark   # Available themes are light, dark, or ocean.
+  # themeUrl: https://example.com/my-custom-theme.css
+  
   introTitle: "Verite Data Science Uptime"
   introMessage: "INNOVATION, POWERED BY DATA"
   navbar:
@@ -44,6 +52,3 @@ status-website:
 i18n:
   footer: Designed and built in California with all the love in the world.
   # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
