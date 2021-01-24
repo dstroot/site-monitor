@@ -39,8 +39,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: VDS Uptime
   
-  # theme: dark   # Available themes are light, dark, or ocean.
-  themeUrl: https://raw.githubusercontent.com/dstroot/site-monitor/master/static/theme.css
+  theme: ocean   # Available themes are light, dark, or ocean.
+  # themeUrl: https://raw.githubusercontent.com/dstroot/site-monitor/master/static/theme.css
   
   # you can use **markdown** in the fields below
   introTitle: "Verite Data Science Uptime"
