@@ -40,7 +40,7 @@ status-website:
   name: VDS Uptime
   
   # theme: ocean   # Available themes are light, dark, or ocean.
-  themeUrl: /static/theme.css
+  themeUrl: /site-monitor/static/theme.css
   
   # you can use **markdown** in the fields below
   introTitle: "Verite Data Science Uptime"
