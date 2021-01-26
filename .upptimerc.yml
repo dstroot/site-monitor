@@ -18,6 +18,8 @@ sites:
     url: https://danstroot.com/
   - name: Site Monitor
     url: https://dstroot.github.io/vds_uptime/
+  - name: Pacific Life
+    url: https://www.pacificlife.com/
     
 # Users to assign downtime issues (optional)
 assignees: 
