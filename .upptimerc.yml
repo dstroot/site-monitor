@@ -4,8 +4,6 @@ repo: site-monitor  # GitHub repository name
 
 # Site(s) to monitor
 sites:
-  - name: Verite Data Science
-    url: https://veritedatascience.com/
   - name: React Instagram
     url: https://affectionate-aryabhata-c22561.netlify.app/
   - name: Storybook
@@ -45,13 +43,13 @@ status-website:
   themeUrl: https://modest-panini-61a8ce.netlify.app/theme.css
   
   # you can use **markdown** in the fields below
-  introTitle: "Verite Data Science Uptime"
+  introTitle: "Github Web Monitoring"
   introMessage: "INNOVATION, POWERED BY DATA"
   
   # You can customize the navbar top-level navigation links
   navbar:
-    - title: Verite Data Science
-      href: https://veritedatascience.com/
+  #     - title: Verite Data Science
+  #       href: https://veritedatascience.com/
   # - title: Status
   #   href: https://dstroot.github.io/VDS_uptime/
 
